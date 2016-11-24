@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b63e3742-2f7e-478e-96d5-cc056990e2f5" name="Andrew @ Coords" url="https://andrew.coords.uk">
+        <fileTransfer host="coords.uk" port="22" privateKey="C:\Users\Home\Dropbox\PuTTYCM\Keys\AndrewLaptop2013.ppk" rootFolder="/home/andrew" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
